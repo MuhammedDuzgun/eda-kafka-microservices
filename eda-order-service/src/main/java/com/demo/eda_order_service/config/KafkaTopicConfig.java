@@ -20,7 +20,4 @@ public class KafkaTopicConfig {
                 .build();
     }
 
-    public String getTopicName() {
-        return topicName;
-    }
 }
